@@ -2,7 +2,7 @@ package demo;
 
 import java.util.List;
 
-public interface NumberFinder {
+public interface IntegerFinder {
 
     /**
      * Checks if valueToFind is contained in the list
