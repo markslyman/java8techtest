@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Objects;
 
 
-public class TechTestFindNumber implements NumberFinder {
+public class TechTestFindNumber implements IntegerFinder {
 
     static private final ComparatorWithRandomSleep FASTEST_COMPARATOR = new ComparatorWithRandomSleep();
 
